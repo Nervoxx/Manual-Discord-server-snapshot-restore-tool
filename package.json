@@ -1,0 +1,20 @@
+{
+  "name": "wzjybot",
+  "version": "1.0.0",
+  "description": "Discord server snapshot and restore bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "clear-commands": "node deploy/clearCommands.js"
+  },
+  "keywords": ["discord", "bot", "backup", "snapshot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
+
