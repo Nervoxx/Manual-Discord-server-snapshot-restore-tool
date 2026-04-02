@@ -44,4 +44,4 @@ Originally created for **Wzjy** as a safety backup in case a server gets termina
 ---
 
 ## Credits
-Created for **Wzjy**, Made by **Nervoxx**
+Made by **Nervoxx**
