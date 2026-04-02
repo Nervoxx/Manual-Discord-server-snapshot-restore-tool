@@ -2,7 +2,7 @@
 
 Simple Discord bot for saving and restoring a server structure.
 
-Originally created for **Wzjy** as a safety backup in case a server gets terminated.
+Originally created as a safety backup in case a server gets terminated.
 
 ---
 
